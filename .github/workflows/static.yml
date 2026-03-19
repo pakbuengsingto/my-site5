@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<body style="text-align:center; margin-top:50px;">
+
+<h2>ค้นหาข้อมูลนักเรียน</h2>
+
+<a href="https://a2401.obec.expert" target="_blank">
+  <button>ไปค้นหาข้อมูล</button>
+</a>
+
+</body>
+</html>
